@@ -1,0 +1,3 @@
+[submodule "external/cortado-core"]
+	path = external/cortado-core
+	url = https://github.com/GiorgioCasoni/cortado-core.git
