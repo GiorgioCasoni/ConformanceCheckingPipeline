@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains the implementation developed for a Master's thesis focused on **process mining**, with particular emphasis on:
+This repository contains the implementation developed for a Bachelors thesis focused on **process mining**, with particular emphasis on:
 
 - Conformance checking via **alignments**
 - Optimization using **unfoldings**
@@ -114,3 +114,16 @@ Implications:
 - Any derivative work must also be distributed under GPL-3.0
 
 See the `LICENSE` file for details.
+
+## 👤 Author
+
+Giorgio Casoni\
+Bachelors Degree in Computer Science\
+University of Milano-Bicocca\
+Contacts: giorgio.casoni.03@gmail.com
+
+## 📚 References
+- Wil van der Aalst, Process Mining: Data Science in Action
+- Josep Carmona, Conformance Checking
+- cortado-core repository
+- for the complete reference list, see the original thesis at https://github.com/GiorgioCasoni/BscThesis
